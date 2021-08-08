@@ -1,0 +1,4 @@
+enrique
+SIN4KrFnlQa3kum7
+
+mongodb+srv://enrique:SIN4KrFnlQa3kum7@cluster0.vo69w.mongodb.net/test
